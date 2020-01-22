@@ -1,0 +1,17 @@
+C:\Users\alteni75\AppData\Local\Temporary Projects\Clappy Bird\obj\Debug\Clappy Bird.vbprojAssemblyReference.cache
+C:\Users\alteni75\AppData\Local\Temporary Projects\Clappy Bird\obj\Debug\Clappy_Bird.Form1.resources
+C:\Users\alteni75\AppData\Local\Temporary Projects\Clappy Bird\obj\Debug\Clappy_Bird.Resources.resources
+C:\Users\alteni75\AppData\Local\Temporary Projects\Clappy Bird\obj\Debug\Clappy Bird.vbproj.GenerateResource.cache
+C:\Users\alteni75\AppData\Local\Temporary Projects\Clappy Bird\obj\Debug\Clappy Bird.vbproj.CoreCompileInputs.cache
+C:\Users\alteni75\source\repos\Clappy Bird\Clappy Bird\bin\Debug\Clappy Bird.exe.config
+C:\Users\alteni75\source\repos\Clappy Bird\Clappy Bird\bin\Debug\Clappy Bird.exe
+C:\Users\alteni75\source\repos\Clappy Bird\Clappy Bird\bin\Debug\Clappy Bird.pdb
+C:\Users\alteni75\source\repos\Clappy Bird\Clappy Bird\bin\Debug\Clappy Bird.xml
+C:\Users\alteni75\source\repos\Clappy Bird\Clappy Bird\obj\Debug\Clappy Bird.vbprojAssemblyReference.cache
+C:\Users\alteni75\source\repos\Clappy Bird\Clappy Bird\obj\Debug\Clappy_Bird.Form1.resources
+C:\Users\alteni75\source\repos\Clappy Bird\Clappy Bird\obj\Debug\Clappy_Bird.Resources.resources
+C:\Users\alteni75\source\repos\Clappy Bird\Clappy Bird\obj\Debug\Clappy Bird.vbproj.GenerateResource.cache
+C:\Users\alteni75\source\repos\Clappy Bird\Clappy Bird\obj\Debug\Clappy Bird.vbproj.CoreCompileInputs.cache
+C:\Users\alteni75\source\repos\Clappy Bird\Clappy Bird\obj\Debug\Clappy Bird.exe
+C:\Users\alteni75\source\repos\Clappy Bird\Clappy Bird\obj\Debug\Clappy Bird.xml
+C:\Users\alteni75\source\repos\Clappy Bird\Clappy Bird\obj\Debug\Clappy Bird.pdb
